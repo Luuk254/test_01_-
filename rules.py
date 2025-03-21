@@ -1,0 +1,1 @@
+print("Geoinformatyka, meteorologia i rozpoznania rządzą!Oh yeah!")
